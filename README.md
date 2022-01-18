@@ -1,4 +1,8 @@
-# vue2-management-screen
+# このリポジトリについて
+
+## 概要
+
+[技術書典12](https://techbookfest.org/event/tbf12)初出の『エンハンス開発サバイバルガイド〜仕様解析編〜』のサンプルコードです。
 
 ## Project setup
 ```
